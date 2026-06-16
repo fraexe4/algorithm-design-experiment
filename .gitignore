@@ -1,0 +1,16 @@
+# Build artifacts (Code::Blocks)
+bin/
+obj/
+*.o
+*.exe
+*.layout
+*.depend
+*.cbp
+*.cache
+
+# OS / editor cruft
+Thumbs.db
+.DS_Store
+*.swp
+.vscode/
+.idea/
